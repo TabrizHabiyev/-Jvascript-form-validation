@@ -1,0 +1,46 @@
+#namealert
+{
+    display: none;
+}
+
+#lastnamealert
+{
+    display: none;
+}
+
+#photoupload
+{
+   display: none;
+}
+#passwordAlert
+{
+   display: none;
+}
+
+#samePasswordAlert
+{
+   display: none;
+}
+#emailAlert
+{
+    display: none;
+}
+#phoneAlert
+{
+    display: none;
+}
+#photoalert
+{
+    display: none;
+}
+.custom-file-label
+{
+    cursor: pointer;
+    padding:-100px;
+}
+#avatar
+{
+    width:100px;
+    height: 100px;
+    border-radius: 1000%;
+}
